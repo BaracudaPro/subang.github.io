@@ -20,7 +20,13 @@ img {
   border: none; }
 
 #go-back-home {
-  margin: 40px 0 0; }
+  margin: 40px 0 0; 
+  display: inline-block;
+vertical-align: baseline;
+overflow: hidden;
+border-radius: 70px;
+border: 4px solid rgba(0, 0, 0, 0.05);
+animation: 1.5s ease 0s normal none 1 running fade-in;}
   #go-back-home:hover {
     background-image: none; }
 
