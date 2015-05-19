@@ -23,6 +23,7 @@ markdown:         redcarpet
 redcarpet:
   extensions:
     - smart
+permalink: /:title/
 
 
 gems:
