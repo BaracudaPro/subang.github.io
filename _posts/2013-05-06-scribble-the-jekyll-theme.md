@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Scribble, a Jekyll theme
+title: Developing Website Sunda Motor
 date: 2013-05-06 16:27:31
 disqus: y
 ---
 
-I have other themes, checkout (mainly) [this repository](https://github.com/muan/muan.github.com/releases) and [this repository](https://github.com/muan/jekyll-wardrobe). <3
+![Jekyll]({{ site.url }}/assets/a11-jekyll.jpg)
 
 ---
 
