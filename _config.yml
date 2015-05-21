@@ -12,10 +12,10 @@ links:
     url:          http://muan.co
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:nakamura.agatha@gmail.com
     external:     true
   - name:         GitHub
-    url:          http://github.com/muan
+    url:          http://github.com/nakamuraapp
     external:     true
 pygments:         true
 permalink:        pretty

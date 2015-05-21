@@ -3,6 +3,7 @@ layout: post
 title: Developing Website Sunda Motor
 date: 2013-05-06 16:27:31
 disqus: y
+share: y
 ---
 
 ![Jekyll]({{ site.url }}/assets/a11-jekyll.jpg)
