@@ -8,8 +8,8 @@ google_analytics: UA-21332781-7
 links: 
   - name:         About
     url:          /about
-  - name:         Blog
-    url:          http://muan.co
+  - name:         Project
+    url:          /project
     external:     true
   - name:         Email
     url:          mailto:nakamura.agatha@gmail.com
