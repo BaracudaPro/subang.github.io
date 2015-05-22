@@ -4,5 +4,5 @@ title: Project
 permalink: /project/
 ---
 
-- [Sunda Motor](http://sundamotor.com/) - Ecommerce
+- [Sunda Motor](/Developing-Website-Sunda-Motor/) - Ecommerce
 - [Mazaya Shop](http://mazayashop.co.id/) - Ecommerce
