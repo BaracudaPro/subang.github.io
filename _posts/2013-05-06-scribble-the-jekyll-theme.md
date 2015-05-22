@@ -6,7 +6,7 @@ disqus: y
 share: y
 ---
 
-![Jekyll]({{ site.url }}/assets/a11-jekyll.jpg)
+![Jekyll]({{ site.url }}/images/a11-jekyll.jpg)
 
 ---
 
