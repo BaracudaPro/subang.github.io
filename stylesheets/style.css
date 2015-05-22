@@ -1,19 +1,5 @@
-@font-face {
-  font-family: 'Museo300-Regular';
-  src: url('fonts/Museo300-Regular.eot');
-  src: url('fonts/Museo300-Regular.eot?#iefix') format('embedded-opentype'),
-       url('fonts/Museo300-Regular.woff2') format('woff2'),
-       url('fonts/Museo300-Regular.woff') format('woff'),
-       url('fonts/Museo300-Regular.ttf') format('truetype'),
-       url('fonts/Museo300-Regular.svg#Museo300-Regular') format('svg');
-  font-weight: normal;
-  font-style: normal;
-}
-
 h1, h2, h3, h4, h5, strong, b {
-  font-weight: 600; 
-  font-family: 'Museo300-Regular';
-}
+  font-weight: 600; }
 
 html, body {
   height: 100%; }
