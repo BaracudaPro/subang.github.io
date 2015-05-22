@@ -10,7 +10,6 @@ links:
     url:          /about
   - name:         Project
     url:          /project
-    external:     true
   - name:         Email
     url:          mailto:nakamura.agatha@gmail.com
     external:     true
